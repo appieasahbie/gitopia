@@ -75,7 +75,8 @@ Gitopia is the next-generation Code Collaboration Platform fuelled by a decentra
         source $HOME/.bash_profile
     
     
-Fund your wallet (to create validator) TB
+Fund your wallet (to create validator) TB you can also use web faucet [link](https://gitopia.com/home)
+
 
 
  ### Create validator (after recieving of tokens and must important sync is false)
